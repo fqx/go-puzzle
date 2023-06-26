@@ -1,0 +1,7 @@
+(;
+SZ[19]
+WR[8d]
+BR[6d, 5d & 5d]
+HA[3]
+RE[? (moves beyond 66 not known)]
+;AB[dp];AB[pd];AB[pp];W[ce];B[dc];W[fd];B[de];W[dd];B[ed];W[cd];B[ec];W[ee];B[df];W[cc];B[fc];W[gd];B[ef];W[fe];B[gc];W[hd];B[cf];W[db];B[eb];W[cb];B[hc];W[ic];B[ib];W[jb];B[jc];W[id];B[ia];W[kc];B[gb];W[cj];B[ei];W[ej];B[fj];W[ek];B[di];W[cn];B[gi];W[fq];B[dn];W[do];B[eo];W[co];B[eq];W[fp];B[ep];W[bq];B[fo];W[hp];B[go];W[kq];B[ip];W[ho];B[gp];W[hq];B[gq];W[qn];B[pj];W[le];B[mq];W[or];B[oq];W[qq];B[nr];W[qp];B[pr])

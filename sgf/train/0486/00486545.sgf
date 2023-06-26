@@ -1,0 +1,7 @@
+(;
+SZ[19]
+WR[4d]
+BR[3d]
+KM[0.50]
+RE[W+Resign]
+;B[pd];W[dp];B[pq];W[dc];B[ce];W[dh];B[cj];W[cd];B[cn];W[fq];B[de];W[fc];B[ge];W[ei];B[ej];W[fj];B[ek];W[ci];B[bj];W[gh];B[gc];W[fd];B[fe];W[gd];B[he];W[ic];B[ih];W[fk];B[fl];W[el];B[dl];W[em];B[gl];W[hj];B[dm];W[en];B[il];W[jj];B[kl];W[bo];B[bn];W[lj];B[ml];W[nj];B[je];W[kc];B[ol];W[kq];B[le];W[mc];B[pj];W[bi];B[mq];W[ip];B[nd];W[co];B[bl];W[qo];B[qp];W[rp];B[rq];W[pp];B[qq];W[qm];B[qk];W[op];B[oq];W[np];B[mp];W[on];B[rn];W[ro];B[rm];W[qn];B[rl];W[mo];B[lo];W[mn];B[ln];W[mm];B[lm];W[oo];B[nc];W[nb];B[ob];W[md];B[me];W[jh];B[ii];W[ij];B[oh];W[ig];B[hg];W[hh];B[jg];W[if];B[hd];W[hc];B[jf];W[ji];B[ie];W[nh];B[ng];W[oi];B[pi];W[mg];B[nf];W[lh];B[hf];W[mr];B[lr];W[nr];B[nq];W[lq];B[kr];W[jr];B[jq];W[iq];B[jp];W[ks];B[lp];W[ls];B[mb];W[lb];B[na];W[jm];B[jl];W[kp];B[ao];W[ap];B[an];W[cp];B[be];W[bd];B[ad];W[ac];B[ae];W[cc];B[kd];W[lc];B[or];W[hm];B[hl];W[im];B[fn];W[fm];B[gm];W[gn];B[hn];W[fo];B[go];W[fn];B[jo];W[in];B[io];W[ho];B[jn];W[ko];B[kn];W[nk];B[hp];W[hn];B[ir];W[hq];B[nl];W[lk];B[kr];W[lr];B[ll];W[pl];B[hr];W[gq];B[ed];W[ec];B[ns];W[ok];B[pk];W[ql];B[js];W[is];B[bg];W[cg];B[hs];W[js];B[os];W[gr];B[bh];W[ai];B[kg];W[cf];B[bf];W[ef];B[ee];W[ff];B[df];W[dg];B[gg];W[fg];B[dn];W[do];B[la];W[ka];B[ma];W[jc];B[kh];W[ki];B[lg];W[ph];B[og];W[rj];B[rk];W[qh];B[ri];W[qi];B[qj];W[rh];B[sj];W[rd];B[rc];W[qc];B[rb];W[qd];B[qb];W[pe];B[qf];W[rf];B[pf];W[qe];B[om];W[nm];B[mf];W[se];B[mh];W[kk];B[pc];W[sh];B[oe];W[si];B[rj];W[sp];B[sn];W[sl];B[ni];W[oj];B[li];W[jk];B[sc];W[sd])

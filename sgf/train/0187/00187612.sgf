@@ -1,0 +1,5 @@
+(;
+SZ[19]
+KM[5.5]
+RE[W+1.5 {moves beyond 132 not known}]
+;B[pd];W[dc];B[pp];W[eq];B[cp];W[jq];B[do];W[cj];B[hq];W[eo];B[en];W[fo];B[dq];W[fr];B[ho];W[dr];B[cr];W[dn];B[cn];W[dm];B[cm];W[dl];B[jo];W[mq];B[qm];W[pr];B[ce];W[cd];B[de];W[fd];B[ch];W[ei];B[fg];W[hg];B[fi];W[fj];B[gi];W[gj];B[hi];W[hj];B[ii];W[jk];B[mo];W[eh];B[fe];W[ge];B[gg];W[ff];B[ef];W[ee];B[eg];W[nc];B[hf];W[id];B[jf];W[pg];B[nd];W[md];B[ne];W[oc];B[pc];W[pb];B[qb];W[od];B[oe];W[pe];B[mc];W[mb];B[lc];W[lb];B[kc];W[kb];B[ob];W[nb];B[pa];W[qe];B[jc];W[jb];B[ic];W[rc];B[rb];W[ib];B[rd];W[hc];B[le];W[qk];B[qq];W[qr];B[cl];W[fn];B[re];W[rg];B[hm];W[in];B[hn];W[ip];B[io];W[hp];B[qh];W[ph];B[qi];W[pi];B[qj];W[pj];B[rk];W[rl];B[ql];W[pk];B[rj];W[qg];B[rr];W[om];B[pn];W[pq];B[qp];W[lp];B[lo];W[gl];B[ml];W[mj];B[mh];W[of];B[nf];W[ng];B[mg];W[nh];B[mi];W[cs];B[bs];W[ds];B[bq];W[bd])
